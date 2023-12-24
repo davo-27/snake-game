@@ -115,3 +115,38 @@ body{
     font-size: 1rem;
 }
 }
+@media screen and (max-width: 414px) {
+    .wrapper{
+        width:80vmin;
+        height: 120vmin;
+    }
+    .game-details{
+        font-size: 0.8rem;
+        padding: 15px 15px;
+    }
+    .controls{
+        display: flex;
+    }
+    .controls i{
+        padding: 14px 0;
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .wrapper{
+        width:80vmin;
+        height: 120vmin;
+    }
+    .game-details{
+        font-size: 0.8rem;
+        padding: 15px 15px;
+    }
+    .controls{
+        display: flex;
+    }
+    .controls i{
+        padding: 14px 0;
+        font-size: 1rem;
+    }
+}
