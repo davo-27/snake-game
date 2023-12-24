@@ -92,6 +92,7 @@ body{
     color: #0a000a;
     text-align: center;
     font-size: 1em;
+    text-transform: uppercase ;
 }
 .popup.hide{
     display: none;
